@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Omni/static/css/main.ed7c5f41.css",
+    "main.js": "/Omni/static/js/main.1d0b3144.js",
+    "static/media/phase 3.mp4": "/Omni/static/media/phase 3.5b2bebb25b681204941d.mp4",
+    "static/media/Desktop.mp4": "/Omni/static/media/Desktop.17d6c3b5a48c449ae4a2.mp4",
+    "static/media/phase 2.mp4": "/Omni/static/media/phase 2.fa9299285787371afd65.mp4",
+    "static/media/desktop.mp4": "/Omni/static/media/desktop.21d842caa672bfdfcac5.mp4",
+    "static/media/phase 1.mp4": "/Omni/static/media/phase 1.90950117d77c32a3eac9.mp4",
+    "static/media/adold4.svg": "/Omni/static/media/adold4.fd29b4157f1f022ce31b35983855764b.svg",
+    "static/media/Illus 3.svg": "/Omni/static/media/Illus 3.5a72582da91a7f2716357d047d756d23.svg",
+    "static/media/benefit3.png": "/Omni/static/media/benefit3.10160d528cf9663bece9.png",
+    "static/media/benefit2.png": "/Omni/static/media/benefit2.92cfc84530fbb3e941c4.png",
+    "static/media/testinomial2.svg": "/Omni/static/media/testinomial2.047d45aeff8916f6a456473ee4591cb5.svg",
+    "static/media/about_img.png": "/Omni/static/media/about_img.fb8600c17a63a42eae88.png",
+    "static/media/testinomial1.svg": "/Omni/static/media/testinomial1.b2808881d9c41581a002d1ce92d86a45.svg",
+    "static/media/Illus1.png": "/Omni/static/media/Illus1.3b736c0d5947457bee44.png",
+    "static/media/Illus2.svg": "/Omni/static/media/Illus2.e582f8377844311a8e1e01e1686b1054.svg",
+    "static/media/benefit1.png": "/Omni/static/media/benefit1.60dac762843b57d27bd2.png",
+    "static/media/Badge1.png": "/Omni/static/media/Badge1.1ceaee909e28def56f52.png",
+    "index.html": "/Omni/index.html",
+    "main.ed7c5f41.css.map": "/Omni/static/css/main.ed7c5f41.css.map",
+    "main.1d0b3144.js.map": "/Omni/static/js/main.1d0b3144.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed7c5f41.css",
+    "static/js/main.1d0b3144.js"
+  ]
+}
